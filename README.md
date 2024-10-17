@@ -1,0 +1,2 @@
+# TMR
+A dataset where 6 subjects provide data before and after targeted muscle reinervation. For attribution, please cite: Simon, Ann M., Kristi L. Turner, Laura A. Miller, Gregory A. Dumanian, Benjamin K. Potter, Mark D. Beachler, Levi J. Hargrove, and Todd A. Kuiken. “Myoelectric Prosthesis Hand Grasp Control Following Targeted Muscle Reinnervation in Individuals with Transradial Amputation.” PLOS ONE 18, no. 1 (January 26, 2023): e0280210. https://doi.org/10.1371/journal.pone.0280210.
